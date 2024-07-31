@@ -1,4 +1,4 @@
-# InfoEdge-Ventures-AI-Hackathon-2024 team name=
+# 🎥𝙸𝚗𝚏𝚘𝙴𝚍𝚐𝚎-𝚅𝚎𝚗𝚝𝚞𝚛𝚎𝚜-𝙰𝙸-𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗-2024 [𝕿𝖊𝖆𝖒 : ₚ𝙿𝚢𝚝𝚑𝚘𝚕𝚘𝚐𝚒𝚜𝚃ₜ]
 
 <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt=" Welcome coders 👋This is an Phythogist 🚀 Environment ❤️">
@@ -13,5 +13,15 @@ This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicat
 Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 
 
+#🌎ᴾʸᵗʰᵒˡᵒᵍⁱˢᵗ ᵂᵒʳˡᵈ
+Here link Provided for see the project overview
+link1
+link 2
 
- https://github.com/yash-011/InfoEdge-Ventures-AI-Hackathon-2024/blob/main/result_ed.mp4
+
+
+<img src="[https://github.com/yash-011/InfoEdge-Ventures-AI-Hackathon]💻
+
+<div align="center">
+<img src="https://github.com/yash-011/H2SKILL-ALGORITHMIC-TRADING-Prediction-Model-/blob/main/resources/Colorful%20Minimalist%20Linear%20Steps%20Circular%20Diagram.png" alt="eatsleepcode" width="600" height="550" />
+</div>
